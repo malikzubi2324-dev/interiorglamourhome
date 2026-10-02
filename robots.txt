@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malikzubi2324-dev.github.io/interiorglamourhome/sitemap.xml
